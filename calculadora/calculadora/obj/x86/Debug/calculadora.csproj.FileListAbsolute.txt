@@ -1,0 +1,15 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.tela.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\obj\x86\Debug\calculadora.exe
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\obj\x86\Debug\calculadora.pdb
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\bin\Debug\calculadora.exe
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\bin\Debug\calculadora.pdb
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\obj\x86\Debug\calculadora.tela.resources
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\obj\x86\Debug\calculadora.csproj.GenerateResource.Cache
+G:\INF\DS I\calculadora - Bruno Ferreira Vagliengo\calculadora\obj\x86\Debug\calculadora.csprojResolveAssemblyReference.cache
