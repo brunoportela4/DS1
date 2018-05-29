@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.frmMenu.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.frmTeste1.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.pdb
