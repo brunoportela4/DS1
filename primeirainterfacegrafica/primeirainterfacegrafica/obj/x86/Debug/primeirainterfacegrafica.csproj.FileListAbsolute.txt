@@ -1,0 +1,14 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\primeirainterfacegrafica\bin\Debug\primeirainterfacegrafica.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\primeirainterfacegrafica\bin\Debug\primeirainterfacegrafica.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.frmPrincipal.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\primeirainterfacegrafica\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\primeirainterfacegrafica\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\primeirainterfacegrafica\primeirainterfacegrafica\bin\Debug\primeirainterfacegrafica.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\primeirainterfacegrafica\primeirainterfacegrafica\bin\Debug\primeirainterfacegrafica.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\primeirainterfacegrafica\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.frmPrincipal.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\primeirainterfacegrafica\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\primeirainterfacegrafica\primeirainterfacegrafica\obj\x86\Debug\primeirainterfacegrafica.csproj.GenerateResource.Cache
