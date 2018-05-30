@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\maior3\maior3\bin\Debug\maior3.exe
+C:\Users\Aluno\Desktop\maior3\maior3\bin\Debug\maior3.pdb
+C:\Users\Aluno\Desktop\maior3\maior3\obj\x86\Debug\maior3.frmMaiorValorDeTres.resources
+C:\Users\Aluno\Desktop\maior3\maior3\obj\x86\Debug\maior3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\maior3\maior3\obj\x86\Debug\maior3.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\maior3\maior3\obj\x86\Debug\maior3.exe
+C:\Users\Aluno\Desktop\maior3\maior3\obj\x86\Debug\maior3.pdb
