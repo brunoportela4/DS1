@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\escola\escola\bin\Debug\escola.exe
+C:\Users\Aluno\Desktop\escola\escola\bin\Debug\escola.pdb
+C:\Users\Aluno\Desktop\escola\escola\obj\x86\Debug\escola.exe
+C:\Users\Aluno\Desktop\escola\escola\obj\x86\Debug\escola.pdb
+G:\INF\DS I\escola\escola\obj\x86\Debug\escola.exe
+G:\INF\DS I\escola\escola\obj\x86\Debug\escola.pdb
+G:\INF\DS I\escola\escola\bin\Debug\escola.exe
+G:\INF\DS I\escola\escola\bin\Debug\escola.pdb
