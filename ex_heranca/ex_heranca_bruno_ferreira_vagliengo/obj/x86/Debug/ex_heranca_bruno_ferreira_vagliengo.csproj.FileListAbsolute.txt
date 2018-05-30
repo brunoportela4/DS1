@@ -1,0 +1,5 @@
+G:\INF\DS I\ex_heranca_bruno_ferreira_vagliengo\ex_heranca_bruno_ferreira_vagliengo\bin\Debug\ex_heranca_bruno_ferreira_vagliengo.exe
+G:\INF\DS I\ex_heranca_bruno_ferreira_vagliengo\ex_heranca_bruno_ferreira_vagliengo\bin\Debug\ex_heranca_bruno_ferreira_vagliengo.pdb
+G:\INF\DS I\ex_heranca_bruno_ferreira_vagliengo\ex_heranca_bruno_ferreira_vagliengo\obj\x86\Debug\ex_heranca_bruno_ferreira_vagliengo.exe
+G:\INF\DS I\ex_heranca_bruno_ferreira_vagliengo\ex_heranca_bruno_ferreira_vagliengo\obj\x86\Debug\ex_heranca_bruno_ferreira_vagliengo.pdb
+G:\INF\DS I\ex_heranca_bruno_ferreira_vagliengo\ex_heranca_bruno_ferreira_vagliengo\obj\x86\Debug\ex_heranca_bruno_ferreira_vagliengo.csprojResolveAssemblyReference.cache
