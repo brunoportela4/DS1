@@ -1,0 +1,35 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.Ex1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.Atividade.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.Ex2.resources
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.Ex1.resources
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.Ex2.resources
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.Atividade.resources
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.Ex3.resources
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+D:\Atividade\Atividade\bin\Debug\Atividade.exe
+D:\Atividade\Atividade\bin\Debug\Atividade.pdb
+D:\Atividade\Atividade\obj\x86\Debug\Atividade.Ex4.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+G:\INF\DS I\Atividade\Atividade\bin\Debug\Atividade.exe
+G:\INF\DS I\Atividade\Atividade\bin\Debug\Atividade.pdb
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.csprojResolveAssemblyReference.cache
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Ex1.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Ex2.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Atividade.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Ex3.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Ex4.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Ex5.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Ex6.resources
+G:\INF\DS I\Atividade\Atividade\obj\x86\Debug\Atividade.Ex7.resources
